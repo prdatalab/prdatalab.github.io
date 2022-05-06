@@ -6,7 +6,7 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: **THE PUERTO RICO DATA LAB**
+title: **The Puerto Rico Data Lab**
 
 # Short bio or description (displayed in the header)
 #description: A simple, elegant and full featured Jekyll theme
@@ -58,8 +58,7 @@ footer_links:
     icon: fa fa-facebook-square
 
 # Enter your copyright text if you wish to override the default one.
-#copyright: "This site is made with <3 by *me, myself, and I*."
-
+#copyright: 
 # Time zone
 timezone: null
 
